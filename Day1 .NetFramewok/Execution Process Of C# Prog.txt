@@ -1,0 +1,55 @@
+Execution Process Of C# Prog
+-----------------------------------------
+
+C# Souce Code[.cs file] - > C# Compilation[CSC Compiler] -> MSIL Code-> 
+
+CLR (JIT compiler - translates MSIL code) -> Native Code [.exe/.dll]
+
+-------------------------------------------------------------------------------
+Note: Unlike Java, in C# during compilation process only, it checks for 
+starting point meaning looks for Main() function
+---------------------------------------------------------------------------------
+
+Microsoft Intermediate Language Code [MSIL like byte code in Java]
+CLR [Common Langugage Runtime [like JRE in Java]]
+Just In Time Compiler [JIT]
+
+Namespace - Before Compilation
+Assembly - After Compilation
+
+Assembly in two forms
+1) .Exe (Executable)
+2) .dll (Dynamic Link Library)
+
+Assembly Contains (Metadata + MSIL)
+
+csc /target:library /out:Shape.dll Circle.cs Rectangle.cs Triangle.cs
+
+to verify or to see metadata of each assembly [.exe or .dll]
+-----------------------------------------------------------------
+cmd->		ildasm
+
+Intermediate Language dassembler meaning reading source code of byte code
+
+D:\Module 3>csc -langversion:?
+Supported language versions:
+default
+1
+2
+3
+4
+5
+6
+7.0 (default)
+7.1
+7.2
+7.3 (latest)
+latest
+
+
+
+
+
+
+
+

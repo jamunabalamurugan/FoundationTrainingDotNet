@@ -1,0 +1,86 @@
+Keywords : means reserved word...
+	keywords should be written in small case.
+
+	For E.G: class, static, void, int, float,etc
+
+
+using : is called as preprocessor directive.
+	To include inbuilt and user defined namespaces in your program
+	
+ESCAPE SEQUENCE CHARACTERS
+----------------------------------------
+\n - new line
+\t - tab
+
+Comments : Comments are used to describe your code.
+		purpose is documentation.
+
+Two types of comments
+1) Single line comment	Syntax: 	// statements;
+	to comment only one line
+
+2) Multiline comment
+	to comment more than one line
+	/*
+
+	statements;;
+
+	*/
+
+
+Variable: It is a named location in memory which holds some value.
+	Whose value can be changed in every execution.
+
+	For E.G: Rollno, seatno, contact, emailid, address, etc
+
+
+Constant : It is same as variable but value never gets changed. Value will be remains constant.
+	use const keyword to declare constant variable.
+NOTE: when you declare const variable, you can't omit initialization.
+
+For E.G: name, basicsal, dob,etc 
+
+Datatype: What kind of data you want to store in variable is called as Datatype.
+
+Types
+int 		plain numbers	For E.G:	Age, month
+long		plain numbers but > than int	For E.G: Contact, etc
+float		plain numbers and decimal For E.G: salary,rate,etc
+double		plain numbers and decimal For E.G: turnover,etc
+char		only one character	For E.G:	grade, gender,etc 'A'
+string		More than one character For E.G: name,addr,etc
+bool 		true, false 	  For E.G: Pass/Fail, etc
+
+
+1byte = 8 bits
+byte		1byte		8 bits
+short		2 bytes		16 bits
+int 		4bytes		32bits
+long		8bytes		64 bits
+float 		4bytes		32bits
+double		8bytes		64bits
+char		2bytes		16bits
+bool		1byte		8bits
+
+
+float.Parse()	: To convert input from string to float
+Convert.ToSingle()
+
+
+int.Parse()	:-	4bytes conversion
+Int64.Parse() : 	To convert input from string to int 8 bytes
+Int32.Parse() :	To convert input from string to int 4 bytes
+Int16.Parse()
+Convert.ToInt32()
+Convert.ToInt16(), etc
+
+
+
+
+
+
+
+
+
+
+

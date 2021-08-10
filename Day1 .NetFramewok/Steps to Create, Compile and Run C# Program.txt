@@ -1,0 +1,24 @@
+Steps to Create, Compile and Run C# Program
+-------------------------------------------------------------
+1) Open Notepad
+2) Add Below given code
+class HelloWorld
+{
+	public static void Main()
+	{
+		System.Console.WriteLine("Hello World...");
+		System.Console.ReadKey();
+	}
+}
+3) Save Ur file with HelloWorld.cs in one folder
+4) Open Visual Studio Developer Command Prompt
+5) Go to your folder by using cd command
+6) To compile your program use
+	csc HelloWorld.cs
+7) After compilation you can see, HelloWorld.exe file
+8) Run your HelloWorld.exe file, just by double clicking on that file Or On Command Prompt write Ur exe filename
+
+
+
+
+

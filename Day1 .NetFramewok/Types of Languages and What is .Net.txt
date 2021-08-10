@@ -1,0 +1,28 @@
+Types of Progg Langs
+1) Sequential Progg Lang		BASIC
+2) Procedural Oriented Lang		C, Pascal
+3) Object Oriented	Progg Lang	C++, Java, C#
+4) Event Driven Progg Lang		VB
+
+--------------------------------X-----------------------------------------
+What is .Net Framework?
+
+It is a Platform developed by Microsoft to design, develop, deploy, host and maintain
+
+Console Based Appln	(CUI - Characte User Interface for e.g. Ticket reservation,etc)
+Window Based Appln	(GUI - Graphical User Interface, Winword,etc)
+Web Based Appln		(WebApplications like naukri.com,etc)
+Mobile Based Appln		(GMail App)
+Cloud Application
+Web Services		(Payment Gateway Services)
+
+--------------------------------X-----------------------------------------
+Shortcut to launch VS,
+	press window+R, open Run Window, and type devenv
+	press enter
+
+Shortcut to open Property Window, press F4
+
+Shortcut to compile and run, press F5,
+
+Shortcut for only compilation, press F6

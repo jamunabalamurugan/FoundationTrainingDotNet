@@ -1,0 +1,28 @@
+Oracle				Microsoft	
+Java				C#
+-----------------------------------------------------------------------
+DESKTOP DOMAIN
+------------------------
+Core Java				C# Console
+GUI - Swings, AWT			C# Window Forms
+Advanced GUI - JavaFx		WPF [Windows Presentation Foundation]
+
+WEB DOMAIN
+----------------
+JDBC				ADO .NET [Activex Data Object]
+Hibernate				Entity Framework
+JPA				LINQ [Language Integrated Query]
+Servlets and JSP			ASP, ASP .NET [Active Server Pages]
+Struts MVC, Spring MVC		ASP .NET MVC 5[Model View Controller]
+JUnit				NUnit, MS Test
+Selenium	[Automation]		UFT [Unified Functional Testing] [Automation]
+
+MOBILE DOMAIN
+--------------------
+Android [Mobile]			C# [Mobile]
+Web Services			Web Services, WCF [Windows Communication 						Foundation], Web API2, etc				
+
+C# is introduced by  Anderes Hejlesberg in 2000 year
+
+
+

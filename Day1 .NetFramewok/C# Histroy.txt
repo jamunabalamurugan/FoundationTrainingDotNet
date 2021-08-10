@@ -1,0 +1,21 @@
+	History of C# language is interesting to know. Here we are going to discuss brief history of C# language.
+
+C# is pronounced as "C-Sharp". It is an object-oriented programming language provided by Microsoft that runs on .Net Framework.
+
+Anders Hejlsberg is known as the founder of C# language.
+
+The classes are grouped into namespaces
+Logical container for classes,interfaces,namespaces
+
+Value type variables can be assigned a value directly. They are derived from the class System.ValueType.
+
+The value types directly contain data. Some examples are int, char, float, which stores numbers, alphabets and floating point numbers respectively. When you declare an int type, the system allocates memory to store the value.
+
+
+The reference types do not contain the actual data stored in a variable, but they contain a reference to the variables.
+In other words, they refer to a memory location. Using more than one variable, the reference types can refer to a memory location. If the data in the memory location is changed by one of the variables, the other variable automatically reflects this change in value.
+
+ Example of built in reference types are:object, dynamic and string.
+
+
+

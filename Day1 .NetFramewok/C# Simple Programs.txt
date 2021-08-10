@@ -1,0 +1,317 @@
+//Simple program to understand Main
+
+using System;
+
+class Program
+{
+    static void Main1()
+{
+console.writeline("Hello from main1");
+}
+
+static void Main()
+{
+console.writeline("hello from main");
+Main1();
+}
+}
+
+
+//program to show output options
+
+using System;
+
+class Program
+{
+    static void Main()
+{
+console.writeline("Please enter your Name:");
+String uname = Console.Readline();
+Console.Writeline("Your name is" + uname);  // Concatenation
+Console.Writeline("Your name is{0}",uname);  //place holder
+
+// to show multiple placeholder values
+Console.Writeline("Enter your Last Name:");
+String lname = Console.Readline();
+Console.Writeline("Your name is{0},{1}",uname,lname);
+}
+}
+
+DataTypes
+Boolean
+Integral
+	Int,Long,Char,Byte,Sbyte,Short etc
+Floating
+	Float,Double,Decimals etc
+
+// program to show C# is strongly typed
+
+using System;
+
+Class program
+{
+static void main()
+{
+Console.Writeline("Min value ={0}",int.MinValue);
+Console.Writeline("Max value ={0}",int.MaxValue);
+}
+}
+
+//program for ternary operator
+
+using System;
+
+class program
+{
+static void main()
+{
+int num=10;
+Bool b;
+if(num ==10)
+{
+    b=true;
+}
+else
+{
+    b=false;
+}
+
+Console.Writeline("Number == 10 is {0}", b);
+}
+}
+
+//can be replaced as
+
+bool b = num ==10 ? true: false;
+
+//Program to show implicit and explicit conversions
+
+using System;
+
+class program
+{
+  static void main()       
+{
+  int i=100;
+float f=i;                    // implicit
+console.writeline(f);
+
+f=123.45F;
+i=(int)f;		     // explicit  or using conversion methods by c#
+ i=Convert.ToInt32(f);
+console.writeline(i);
+
+//try increasing the float value,then observe the typecast will give the minimum value that an int can hold, whereas the conversion method throws exception. to handle this use int.Tryparse();
+
+ string str="100";
+i=int.Parse(str);
+console.writeline(i);
+
+//example using int.TryParse  (takes string and converts to int, return type is boolean)
+
+String str="100gg";
+int result = 0;
+bool success = int.TryParse(str, out result);
+if (str)
+{
+  console.writeline(result);
+}
+else
+console.writeline("invalid data");
+}
+}
+
+// Boxing and unboxing examples
+
+public static void Main()
+{
+int i = 10;
+object o;
+o=i; // value type to ref type -- boxing
+string s= "AAA";
+o=s;// implicit typecasting
+
+float sal;
+sal=float.Parse(console.readline()); // unboxing
+bool b;
+b=convert.ToBoolean(Console.Readline());  // unboxing
+datetime doj;
+doj=Convert.ToDateTime(Console.Readline());//unboxing
+
+
+
+//program to show nullable concept
+
+Using System;
+
+Class Program
+{
+static void main()
+{
+   int ? TicketsonSale=100;
+   int Availabletickets;
+   if(TicketsonSale==null)
+   {
+     Availabletickets=0;
+   }
+   else
+  {
+    Availabletickets=(int)TicketsonSale;  or
+    Availabletickets=TicketsonSale.value;
+  } 
+  Console.Writeline("AvailableTickets ={0}", Availabletickets);
+}
+
+//can be replaced with null coalescing operator ??
+
+int ? TicketsonSale= 100; or null;
+int Availabletickets = TicketsonSale ?? 0;
+}
+
+
+
+
+
+// Program for Class and Instance Methods 
+
+using System;
+
+class Program
+{
+ public static void Main()
+{
+ Program.evennos(10); 
+ // static method, hence can be invoked with class name
+
+Program p = new Program(); 
+int sum = p.add(10,20); // instance method, need an instance to invoke
+console.writeline(sum);
+}
+
+public int add(int a, int b)
+{
+ return a+b;
+}
+
+public static void evennos(int num)
+{
+int i =0;
+while(i <= num)
+{
+ console.writeline(i);
+i+=2;
+}
+}
+}
+
+
+// Program for Methods and Parameters
+
+// Method Parameter  value type
+ 
+using System;
+
+class Program    
+{
+ public static void Main()
+{
+  int i=10;
+  SimpleMethod(i);
+ console.writeline(i);
+}
+
+public static void SimpleMethod(int j)
+{
+ J= 100;
+}
+}
+
+// method parameter    reference type
+
+using System;
+
+class Program
+{
+ public static void Main()
+{
+  int i=10;
+  SimpleMethod(ref i);
+ console.writeline(i);
+}
+
+public static void SimpleMethod(ref int j)
+{
+ J= 100;
+}
+}
+
+// output parameter   out type  (when we need more return types than just one)
+
+using System;
+class Program
+{
+  public static void Main()
+{
+ int total=0;
+  int Prod =0;
+  calculate(10,20, total, Prod);
+  console.writeline("Sum = {0} and Product = {1}", total, Prod);
+}
+
+public staic void calculate(int a, int b, out int sum, out int product)
+{
+ sum = a+b;
+ product = a*b;
+}
+}
+
+using System;
+
+class ParamArray
+ {
+      public int AddElements(params int[] arr) {
+         int sum = 0;
+         
+         foreach (int i in arr) {
+            sum += i;
+         }
+         return sum;
+      }
+   }
+   class TestClass {
+      static void Main(string[] args) {
+         ParamArray app = new ParamArray();
+         int Total = app.AddElements(512, 720, 250, 567, 889);
+         
+         Console.WriteLine("The sum is: {0}", Total);
+         Console.ReadKey();
+      }
+   }
+}
+  
+// 2nd program for parameters array  params
+
+using System;
+class Program
+{
+  public static void Main()
+{
+  int[] num =new int[3];
+  num[0] =10;
+  num[0] =20;
+  num[0] =30;
+ ParamsMethod();0 argument
+ ParamsMethod(num); arraylist
+ ParamsMethod(1,2,3,4,5,6); comma seperated list
+}
+
+public static void ParamsMethod(params int[] numbers)
+{
+ Console.Writeline("there are {0} elements",numbers.Length);
+foreach (int i in numbers)
+{
+ console.Writeline(i);
+}
+}
+}
+
