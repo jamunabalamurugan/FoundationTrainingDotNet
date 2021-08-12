@@ -1,0 +1,7 @@
+E:\AT\Day3\ArraysEg\ArraysEg\bin\Debug\ArraysEg.exe.config
+E:\AT\Day3\ArraysEg\ArraysEg\bin\Debug\ArraysEg.exe
+E:\AT\Day3\ArraysEg\ArraysEg\bin\Debug\ArraysEg.pdb
+E:\AT\Day3\ArraysEg\ArraysEg\obj\Debug\ArraysEg.csprojAssemblyReference.cache
+E:\AT\Day3\ArraysEg\ArraysEg\obj\Debug\ArraysEg.csproj.CoreCompileInputs.cache
+E:\AT\Day3\ArraysEg\ArraysEg\obj\Debug\ArraysEg.exe
+E:\AT\Day3\ArraysEg\ArraysEg\obj\Debug\ArraysEg.pdb

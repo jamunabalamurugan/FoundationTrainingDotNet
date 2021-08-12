@@ -1,0 +1,14 @@
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\bin\Debug\SecondApplication.exe.config
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\bin\Debug\SecondApplication.exe
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\bin\Debug\SecondApplication.pdb
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\obj\Debug\SecondApplication.csprojAssemblyReference.cache
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\obj\Debug\SecondApplication.csproj.CoreCompileInputs.cache
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\obj\Debug\SecondApplication.exe
+D:\Training\C#\DAY 2\SecondApplication\SecondApplication\obj\Debug\SecondApplication.pdb
+E:\AT\Day3\SecondApplication\SecondApplication\bin\Debug\SecondApplication.exe.config
+E:\AT\Day3\SecondApplication\SecondApplication\bin\Debug\SecondApplication.exe
+E:\AT\Day3\SecondApplication\SecondApplication\bin\Debug\SecondApplication.pdb
+E:\AT\Day3\SecondApplication\SecondApplication\obj\Debug\SecondApplication.csprojAssemblyReference.cache
+E:\AT\Day3\SecondApplication\SecondApplication\obj\Debug\SecondApplication.csproj.CoreCompileInputs.cache
+E:\AT\Day3\SecondApplication\SecondApplication\obj\Debug\SecondApplication.exe
+E:\AT\Day3\SecondApplication\SecondApplication\obj\Debug\SecondApplication.pdb
