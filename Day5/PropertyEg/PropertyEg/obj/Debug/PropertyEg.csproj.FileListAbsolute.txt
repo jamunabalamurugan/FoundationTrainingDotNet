@@ -1,0 +1,7 @@
+E:\AT\Day5\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe.config
+E:\AT\Day5\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe
+E:\AT\Day5\PropertyEg\PropertyEg\bin\Debug\PropertyEg.pdb
+E:\AT\Day5\PropertyEg\PropertyEg\obj\Debug\PropertyEg.csproj.CoreCompileInputs.cache
+E:\AT\Day5\PropertyEg\PropertyEg\obj\Debug\PropertyEg.exe
+E:\AT\Day5\PropertyEg\PropertyEg\obj\Debug\PropertyEg.pdb
+E:\AT\Day5\PropertyEg\PropertyEg\obj\Debug\PropertyEg.csprojAssemblyReference.cache
