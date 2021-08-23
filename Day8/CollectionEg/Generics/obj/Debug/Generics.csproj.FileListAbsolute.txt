@@ -1,0 +1,21 @@
+D:\Training\C#\DAY 4\CollectionEg\Generics\bin\Debug\Generics.exe.config
+D:\Training\C#\DAY 4\CollectionEg\Generics\bin\Debug\Generics.exe
+D:\Training\C#\DAY 4\CollectionEg\Generics\bin\Debug\Generics.pdb
+D:\Training\C#\DAY 4\CollectionEg\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+D:\Training\C#\DAY 4\CollectionEg\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\Training\C#\DAY 4\CollectionEg\Generics\obj\Debug\Generics.exe
+D:\Training\C#\DAY 4\CollectionEg\Generics\obj\Debug\Generics.pdb
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\bin\Debug\Generics.exe.config
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\bin\Debug\Generics.exe
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\bin\Debug\Generics.pdb
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\obj\Debug\Generics.exe
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\Generics\obj\Debug\Generics.pdb
+E:\AT\Day8\CollectionEg\Generics\bin\Debug\Generics.exe.config
+E:\AT\Day8\CollectionEg\Generics\bin\Debug\Generics.exe
+E:\AT\Day8\CollectionEg\Generics\bin\Debug\Generics.pdb
+E:\AT\Day8\CollectionEg\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+E:\AT\Day8\CollectionEg\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\AT\Day8\CollectionEg\Generics\obj\Debug\Generics.exe
+E:\AT\Day8\CollectionEg\Generics\obj\Debug\Generics.pdb

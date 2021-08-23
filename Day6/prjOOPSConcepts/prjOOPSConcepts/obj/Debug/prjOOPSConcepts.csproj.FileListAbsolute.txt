@@ -1,0 +1,28 @@
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csproj.CoreCompileInputs.cache
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe.config
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.pdb
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.exe
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.pdb
+D:\CSharp\Day2\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csprojAssemblyReference.cache
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe.config
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.pdb
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csprojAssemblyReference.cache
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csproj.CoreCompileInputs.cache
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.exe
+\\Infchsza1178\get .net 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.pdb
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe.config
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.pdb
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csprojAssemblyReference.cache
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csproj.CoreCompileInputs.cache
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.exe
+D:\GET .NET 775\CSharp\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.pdb
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csprojAssemblyReference.cache
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.csproj.CoreCompileInputs.cache
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.exe
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\obj\Debug\prjOOPSConcepts.pdb
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe.config
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.exe
+E:\CTS\DN016\Training\C#_Day6\prjOOPSConcepts\prjOOPSConcepts\bin\Debug\prjOOPSConcepts.pdb

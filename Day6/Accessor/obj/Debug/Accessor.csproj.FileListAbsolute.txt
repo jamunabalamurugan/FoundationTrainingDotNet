@@ -1,0 +1,23 @@
+\\INFCH05417\GET_767_dotNet\C#\Accessor\obj\Debug\Accessor.csprojAssemblyReference.cache
+\\INFCH05417\GET_767_dotNet\C#\Accessor\obj\Debug\Accessor.csproj.CoreCompileInputs.cache
+D:\GET .NET 775\CSharp\Accessor\bin\Debug\Accessor.exe.config
+D:\GET .NET 775\CSharp\Accessor\bin\Debug\Accessor.exe
+D:\GET .NET 775\CSharp\Accessor\bin\Debug\Accessor.pdb
+D:\GET .NET 775\CSharp\Accessor\obj\Debug\Accessor.csprojAssemblyReference.cache
+D:\GET .NET 775\CSharp\Accessor\obj\Debug\Accessor.csproj.CoreCompileInputs.cache
+D:\GET .NET 775\CSharp\Accessor\obj\Debug\Accessor.exe
+D:\GET .NET 775\CSharp\Accessor\obj\Debug\Accessor.pdb
+\\Infchsza1178\get .net 775\CSharp\Accessor\bin\Debug\Accessor.exe.config
+\\Infchsza1178\get .net 775\CSharp\Accessor\bin\Debug\Accessor.exe
+\\Infchsza1178\get .net 775\CSharp\Accessor\bin\Debug\Accessor.pdb
+\\Infchsza1178\get .net 775\CSharp\Accessor\obj\Debug\Accessor.csprojAssemblyReference.cache
+\\Infchsza1178\get .net 775\CSharp\Accessor\obj\Debug\Accessor.csproj.CoreCompileInputs.cache
+\\Infchsza1178\get .net 775\CSharp\Accessor\obj\Debug\Accessor.exe
+\\Infchsza1178\get .net 775\CSharp\Accessor\obj\Debug\Accessor.pdb
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\bin\Debug\Accessor.exe.config
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\bin\Debug\Accessor.exe
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\bin\Debug\Accessor.pdb
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.csprojAssemblyReference.cache
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.csproj.CoreCompileInputs.cache
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.exe
+F:\Jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Accessor\obj\Debug\Accessor.pdb

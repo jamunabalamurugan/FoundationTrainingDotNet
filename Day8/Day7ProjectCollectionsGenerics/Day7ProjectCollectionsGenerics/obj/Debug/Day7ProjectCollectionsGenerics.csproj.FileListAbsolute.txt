@@ -1,0 +1,7 @@
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\obj\Debug\Day7ProjectCollectionsGenerics.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\obj\Debug\Day7ProjectCollectionsGenerics.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\bin\Debug\Day7ProjectCollectionsGenerics.exe.config
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\bin\Debug\Day7ProjectCollectionsGenerics.exe
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\bin\Debug\Day7ProjectCollectionsGenerics.pdb
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\obj\Debug\Day7ProjectCollectionsGenerics.exe
+E:\CTS\C#\Week3CSharp\C#_Day7\Part2\Day7ProjectCollectionsGenerics\Day7ProjectCollectionsGenerics\obj\Debug\Day7ProjectCollectionsGenerics.pdb

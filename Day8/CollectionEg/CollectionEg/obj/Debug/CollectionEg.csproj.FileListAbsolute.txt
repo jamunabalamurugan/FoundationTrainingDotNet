@@ -1,0 +1,20 @@
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\obj\Debug\CollectionEg.csprojAssemblyReference.cache
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\obj\Debug\CollectionEg.csproj.CoreCompileInputs.cache
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\bin\Debug\CollectionEg.exe.config
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\bin\Debug\CollectionEg.exe
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\bin\Debug\CollectionEg.pdb
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\obj\Debug\CollectionEg.exe
+D:\Training\C#\DAY 4\CollectionEg\CollectionEg\obj\Debug\CollectionEg.pdb
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\CollectionEg\bin\Debug\CollectionEg.exe.config
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\CollectionEg\bin\Debug\CollectionEg.exe
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\CollectionEg\bin\Debug\CollectionEg.pdb
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\CollectionEg\obj\Debug\CollectionEg.csproj.CoreCompileInputs.cache
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\CollectionEg\obj\Debug\CollectionEg.exe
+E:\cts\C#\Week3CSharp\C#_Day7\Part2\CollectionEg\CollectionEg\obj\Debug\CollectionEg.pdb
+E:\AT\Day8\CollectionEg\CollectionEg\obj\Debug\CollectionEg.csproj.CoreCompileInputs.cache
+E:\AT\Day8\CollectionEg\CollectionEg\obj\Debug\CollectionEg.exe
+E:\AT\Day8\CollectionEg\CollectionEg\obj\Debug\CollectionEg.pdb
+E:\AT\Day8\CollectionEg\CollectionEg\bin\Debug\CollectionEg.exe.config
+E:\AT\Day8\CollectionEg\CollectionEg\bin\Debug\CollectionEg.exe
+E:\AT\Day8\CollectionEg\CollectionEg\bin\Debug\CollectionEg.pdb
+E:\AT\Day8\CollectionEg\CollectionEg\obj\Debug\CollectionEg.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\bin\Debug\GenericEg.exe.config
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\bin\Debug\GenericEg.exe
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\bin\Debug\GenericEg.pdb
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\obj\Debug\GenericEg.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\obj\Debug\GenericEg.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\obj\Debug\GenericEg.exe
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\GenericEg\obj\Debug\GenericEg.pdb

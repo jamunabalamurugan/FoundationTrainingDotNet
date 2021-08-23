@@ -1,0 +1,6 @@
+H:\L&T\New Batch\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe.config
+H:\L&T\New Batch\PropertyEg\PropertyEg\bin\Debug\PropertyEg.exe
+H:\L&T\New Batch\PropertyEg\PropertyEg\bin\Debug\PropertyEg.pdb
+H:\L&T\New Batch\PropertyEg\PropertyEg\obj\Debug\PropertyEg.csprojResolveAssemblyReference.cache
+H:\L&T\New Batch\PropertyEg\PropertyEg\obj\Debug\PropertyEg.exe
+H:\L&T\New Batch\PropertyEg\PropertyEg\obj\Debug\PropertyEg.pdb

@@ -1,0 +1,21 @@
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csproj.CoreCompileInputs.cache
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
+D:\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csproj.CoreCompileInputs.cache
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
+\\infch05411\GET_share_792\Training\C#\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csproj.CoreCompileInputs.cache
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
+D:\Training\CSharp\CSharp 809\DAY 4\ExceptionHandlingEg\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb

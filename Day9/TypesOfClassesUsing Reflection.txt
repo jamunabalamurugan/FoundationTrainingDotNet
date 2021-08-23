@@ -1,0 +1,45 @@
+[4:14 PM] Vikas Singh
+    
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Reflection;
+
+
+namespace BlackPearl
+{​​​​​​​
+    class add
+    {​​​​​​​
+        static void Main(string[] args)
+        {​​​​​​​
+            var assemblies = Directory.GetFiles("C:\\Windows\\Microsoft.NET\\Framework" + (Environment.Is64BitProcess ? "64" : "") + "\\v4.0.30319", "*.dll");
+            //Assembly
+            //ProviderBase
+            foreach (var assembly in assemblies)
+            {​​​​​​​
+                try
+                {​​​​​​​
+                    var loadedAssembly = Assembly.LoadFrom(assembly);
+                    var types = loadedAssembly.GetTypes();
+                    foreach (var type in types)
+                        if (type.IsSealed && type.IsClass)
+                            Console.WriteLine(type.FullName);
+                }​​​​​​​
+                catch
+                {​​​​​​​
+                    // Not an assembly? Ignore.
+                }​​​​​​​
+            }​​​​​​​
+            Console.ReadLine();
+
+
+        }​​​​​​​
+    }​​​​​​​
+}​​​​​​​
+
+
+
+

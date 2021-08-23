@@ -1,0 +1,14 @@
+D:\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe.config
+D:\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe
+D:\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.pdb
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.csprojAssemblyReference.cache
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.csproj.CoreCompileInputs.cache
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.exe
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.pdb
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe.config
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.pdb
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.csprojAssemblyReference.cache
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.csproj.CoreCompileInputs.cache
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.exe
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.pdb

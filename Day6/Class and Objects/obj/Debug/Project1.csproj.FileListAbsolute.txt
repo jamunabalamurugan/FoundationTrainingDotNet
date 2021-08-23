@@ -1,0 +1,35 @@
+D:\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe.config
+D:\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe
+D:\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.pdb
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.exe
+D:\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.pdb
+\\infch05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Project1.csprojAssemblyReference.cache
+\\infch05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+\\infch05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.exe
+\\infch05417\GET_767_dotNet\C#\Day3\Class and Objects\obj\Debug\Class and Objects.pdb
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe.config
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe
+\\INFCH05417\GET_767_dotNet\C#\Day3\Class and Objects\bin\Debug\Class and Objects.pdb
+D:\Training\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe.config
+D:\Training\C#\Day3\Class and Objects\bin\Debug\Class and Objects.exe
+D:\Training\C#\Day3\Class and Objects\bin\Debug\Class and Objects.pdb
+D:\Training\C#\Day3\Class and Objects\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day3\Class and Objects\obj\Debug\Class and Objects.exe
+D:\Training\C#\Day3\Class and Objects\obj\Debug\Class and Objects.pdb
+D:\Training\C#\Day3\Class and Objects\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\GET .NET 775\CSharp\Class and Objects\bin\Debug\Class and Objects.exe.config
+D:\GET .NET 775\CSharp\Class and Objects\bin\Debug\Class and Objects.exe
+D:\GET .NET 775\CSharp\Class and Objects\bin\Debug\Class and Objects.pdb
+D:\GET .NET 775\CSharp\Class and Objects\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\GET .NET 775\CSharp\Class and Objects\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\GET .NET 775\CSharp\Class and Objects\obj\Debug\Class and Objects.exe
+D:\GET .NET 775\CSharp\Class and Objects\obj\Debug\Class and Objects.pdb
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\obj\Debug\Project1.csprojAssemblyReference.cache
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\obj\Debug\Class and Objects.exe
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\obj\Debug\Class and Objects.pdb
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\bin\Debug\Class and Objects.exe.config
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\bin\Debug\Class and Objects.exe
+F:\jamuna\LTI Jan 2020\GET 830\Training\CSharp\CSharp 775\Class and Objects\bin\Debug\Class and Objects.pdb

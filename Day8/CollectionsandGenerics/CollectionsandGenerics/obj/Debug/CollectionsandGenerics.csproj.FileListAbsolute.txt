@@ -1,0 +1,14 @@
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\bin\Debug\CollectionsandGenerics.exe.config
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\bin\Debug\CollectionsandGenerics.exe
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\bin\Debug\CollectionsandGenerics.pdb
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.csprojAssemblyReference.cache
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.csproj.CoreCompileInputs.cache
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.exe
+D:\Training\CSharp\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.pdb
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\bin\Debug\CollectionsandGenerics.exe.config
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\bin\Debug\CollectionsandGenerics.exe
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\bin\Debug\CollectionsandGenerics.pdb
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.csprojAssemblyReference.cache
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.exe
+F:\Jamuna\GET 855\C#\Day 5\CollectionsandGenerics\CollectionsandGenerics\obj\Debug\CollectionsandGenerics.pdb

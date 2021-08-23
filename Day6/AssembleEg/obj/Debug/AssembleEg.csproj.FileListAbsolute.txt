@@ -1,0 +1,14 @@
+E:\AT\Day6\AssembleEg\bin\Debug\AssembleEg.exe.config
+E:\AT\Day6\AssembleEg\bin\Debug\AssembleEg.exe
+E:\AT\Day6\AssembleEg\bin\Debug\AssembleEg.pdb
+E:\AT\Day6\AssembleEg\bin\Debug\prjOOPSConcepts.exe
+E:\AT\Day6\AssembleEg\bin\Debug\PropertyEg.exe
+E:\AT\Day6\AssembleEg\bin\Debug\prjOOPSConcepts.pdb
+E:\AT\Day6\AssembleEg\bin\Debug\prjOOPSConcepts.exe.config
+E:\AT\Day6\AssembleEg\bin\Debug\PropertyEg.pdb
+E:\AT\Day6\AssembleEg\bin\Debug\PropertyEg.exe.config
+E:\AT\Day6\AssembleEg\obj\Debug\AssembleEg.csproj.CoreCompileInputs.cache
+E:\AT\Day6\AssembleEg\obj\Debug\AssembleEg.csproj.CopyComplete
+E:\AT\Day6\AssembleEg\obj\Debug\AssembleEg.exe
+E:\AT\Day6\AssembleEg\obj\Debug\AssembleEg.pdb
+E:\AT\Day6\AssembleEg\obj\Debug\AssembleEg.csprojAssemblyReference.cache
