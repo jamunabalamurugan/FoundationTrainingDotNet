@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE students [
+<!ELEMENT student (firstname,lastname,rollno,payment,score)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#CDATA)>
+<!ELEMENT rollno (#CDATA)>
+<!ELEMENT payment (#CDATA)>
+<!ATTLIST payment type(cheque|cash) "cash">
+<!ENTITY sd "Created for AT to show entity use">]>
+
+<students>&sd;
+<student>
+<firstname>Kavin</firstname>
+<lastname>Kumar</lastname>
+<rollno>6</rollno>
+<payment type="cash">10000</payment>
+<score>90</score>
+</student>
+<student>
+<firstname>Kanav</firstname>
+<lastname>A</lastname>
+<rollno yop="2021">7</rollno>
+<payment type="cash">12000</payment>
+<score>97</score>
+</student>
+</students>
+

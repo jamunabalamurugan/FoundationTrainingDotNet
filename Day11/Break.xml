@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"  encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Breaks SYSTEM "Break.dtd">
+<Breaks>
+  <Break type="Morning">
+    <Time>11:00</Time>
+    <Duration>15Mins</Duration>
+  </Break>
+  <Break type="Evening">
+    <Time ttype="PM">16:00</Time>
+    <EndTime>16:15</EndTime>
+    <Snacks>  Samosa &amp; Chutney</Snacks>
+  </Break>
+</Breaks>
+  

@@ -1,0 +1,16 @@
+1) create an XML file with the following structure
+Employees
+  Employee (ID Attribute)
+     Name
+     Phone(1 or 2)
+     Address
+	DoorNo/BuildingName
+	Street
+	City
+	ZipCode
+     Salary
+	Basic
+	HRA
+	DA
+	Tax(Optional)
+Verify if the XML is following the above structure using DTD

@@ -1,0 +1,88 @@
+CSharp Day 10 Case Assignment
+
+Enhance this CSharp client code by Adding code to methods like  public Student[] listOfStudents() which will display details present in the database
+
+
+The below outline must be already there with you
+
+Create Student class (id, name, dateofbirth)
+  - Create constructors, getters and setters
+
+- Create class Info
+  - Write a method called as:
+	public void display(Student student) {
+		//Code here to display the details of given student
+	}
+
+create Course class (id, name, duration, fees)
+  - Modify Info class by adding one more method:
+	public void display(Course course) {
+		//Code here to display the details of given course
+	}
+
+ Create Enroll class with the following structure:
+   - public class Enroll {
+	private Student student;
+	private Course course;
+	private LocalDate enrollmentDate;
+
+	//constructors & getters/setters
+     }
+public void introduce(Course course) {
+
+    }
+
+  - public void register(Student student) {
+
+    }
+
+  - public Student[] listOfStudents() {
+
+    }
+
+  - public Course[] listOfCourses() {
+
+    }
+
+  - public void enroll(Student student, Course course) {
+
+    }
+
+  - public Enroll[] listOfEnrollments() {
+
+    }
+
+
+
+- Then the next step is to create user interface for our application.
+
+- Create an abstract class/interface (UserInterface) with the following methods:
+	public void showFirstScreen();
+	public void showStudentScreen();
+	public void showAdminScreen();
+	public void showAllStudentsScreen();
+	public void showStudentRegistrationScreen(); 
+	public void introduceNewCourseScreen();
+	public void showAllCoursesScreen();
+
+  - The code for showFirstScreen() may look like this in C#
+
+	public static void showFirstScreen() {
+		cw("Welcome to SMS(Student Mgmt. System) v1.0");
+		cw("Tell us who you are : \n1. Student\n2. Admin");
+		cw("Enter your choice ( 1 or 2 ) : ");
+		
+		int op = Int32.parseInt(Console.ReadLine());
+		switch(op) {
+		case 1:
+			showStudentScreen();
+			break;
+		case 2:
+			showAdminScreen();
+			break;
+		}
+	}
+
+- From the Program class now, all we would do in the Main method is:
+   showFirstScreen()
+

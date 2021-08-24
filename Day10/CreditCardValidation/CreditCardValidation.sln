@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardValidation", "CreditCardValidation\CreditCardValidation.csproj", "{BBEF315D-15FD-4914-825F-E505C0413896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOMEShopping", "TOMEShopping\TOMEShopping.csproj", "{400F4156-143C-419E-9827-35BE3CEDFBE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEF315D-15FD-4914-825F-E505C0413896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEF315D-15FD-4914-825F-E505C0413896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEF315D-15FD-4914-825F-E505C0413896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEF315D-15FD-4914-825F-E505C0413896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400F4156-143C-419E-9827-35BE3CEDFBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400F4156-143C-419E-9827-35BE3CEDFBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400F4156-143C-419E-9827-35BE3CEDFBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400F4156-143C-419E-9827-35BE3CEDFBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {428E6AC0-8EC8-466D-9CDD-33BDE30FC4BB}
+	EndGlobalSection
+EndGlobal

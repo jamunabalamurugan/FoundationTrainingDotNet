@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Aug13
 {   // DAO Layer
-    class Enroll//Cart...
+    partial class Enroll//Cart...
     {
         private Student student;//User
         private Course course;//MenuItem

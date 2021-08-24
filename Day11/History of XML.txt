@@ -1,0 +1,109 @@
+ANSI ->American Natianal Standards Institute established a working committee to build on GML to create a broader standard 
+SGML intorduced for Military in 1986
+Tim Berners Lee - 1989 Hypertext Text Makup Language
+to enhance to display of text in web pages
+World Wide Web Consortium (W3C) has developed the common rules for HTML.
+XML - eXtensible Markup Language
+
+XML Technology allows users sto view and Manipulate Data
+W3C->Microsoft,IBM,AT&T,Texcel,XML org,Inso,ArborText
+"Extensible" means a developer can extend his ability to describe a document, and define meaningful tags for your  application
+
+<BOOK>
+<NAME>XML Bible</NAME>
+<AUTHOR color="red">Elloitte Rusty Harold</AUTHOR>
+<PUBLISHER>IDG Boks Worldwide</PUBLISHER>
+<PRICE country="US">399</PRICE>
+
+</BOOK>
+
+Benefits of XML
+1. XML can be domain specific Vocabulary
+
+	WML- Wireless Markup Lang
+	CML- Chemical Markup Lang
+	MathML- to define complex Matahematical Formula
+	OFX
+
+2. Data Interchange- XML plays an important role as a very robust data interchange format
+
+3. Smart Searches
+
+Ex 1: The  best picture award in 1998 went to the file <I> Titanic </I>
+Ex 2: The best picture award in 1988 went to the file <FILM> Titanic </FILM>
+
+4. User-Selected View of Data
+
+5.Granular updates
+ 
+
+HTML
+
+1.TAGS
+	CONTAINER ELEMENTS-->each item is enclosed between beginning and ending tag
+	EMPTY ELEMENTS-->'/' character before closing anagle brackets(>)
+	eg. <BR/>
+	<IMG SRC="Flower.gif"/>
+ASCII character set(American Standard Code for Information Interchange)
+48-0
+49-1
+63-?
+64-@
+65-A
+90-Z
+91-[
+92-\
+97-a
+122-z
+127-del
+
+UTF stands for UCS(Universal Character Set) Transformation Format
+8- stands no of bits in character set or characters 0 through 127
+
+
+http://www.w3.org/XML/REC-XML
+
+The main components of XML document are
+
+Elements--used to describe the contents
+Contents
+Attributes
+Comments
+
+An XML file contains 3 parts
+1.Declaration-This informs the browser about the XML version,encoding scheme and the location of DTD used by XML Document
+2.DTD-Document Type definition is a set of rules that degines and element, element attibute
+3.Content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+

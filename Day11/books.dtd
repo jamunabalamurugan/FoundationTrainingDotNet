@@ -1,0 +1,7 @@
+
+<!--DTD-->
+<!DOCTYPE books [
+<!ELEMENT book (title, author)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+]>

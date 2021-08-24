@@ -1,0 +1,49 @@
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojResolveAssemblyReference.cache
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+D:\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojAssemblyReference.cache
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+\\INFCH05593\TR-6 Share\CSharp Training\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojAssemblyReference.cache
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+D:\Training\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb
+F:\Jamuna\GET 855\C#\Day4\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojAssemblyReference.cache
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojAssemblyReference.cache
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+E:\JAM\LTI  July 2020 MSB\GET 855\C#\Day5\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojAssemblyReference.cache
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+E:\HCL\CSharp\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe.config
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.exe
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\bin\Debug\prjFilesExceptions.pdb
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csprojAssemblyReference.cache
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.csproj.CoreCompileInputs.cache
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.exe
+E:\AT\Day11\prjFilesExceptions\prjFilesExceptions\obj\Debug\prjFilesExceptions.pdb

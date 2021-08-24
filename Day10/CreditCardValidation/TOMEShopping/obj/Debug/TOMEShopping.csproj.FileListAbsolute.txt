@@ -1,0 +1,10 @@
+E:\AT\Day10\CreditCardValidation\TOMEShopping\bin\Debug\TOMEShopping.exe.config
+E:\AT\Day10\CreditCardValidation\TOMEShopping\bin\Debug\TOMEShopping.exe
+E:\AT\Day10\CreditCardValidation\TOMEShopping\bin\Debug\TOMEShopping.pdb
+E:\AT\Day10\CreditCardValidation\TOMEShopping\bin\Debug\CreditCardValidation.dll
+E:\AT\Day10\CreditCardValidation\TOMEShopping\bin\Debug\CreditCardValidation.pdb
+E:\AT\Day10\CreditCardValidation\TOMEShopping\obj\Debug\TOMEShopping.csprojAssemblyReference.cache
+E:\AT\Day10\CreditCardValidation\TOMEShopping\obj\Debug\TOMEShopping.csproj.CoreCompileInputs.cache
+E:\AT\Day10\CreditCardValidation\TOMEShopping\obj\Debug\TOMEShopping.csproj.CopyComplete
+E:\AT\Day10\CreditCardValidation\TOMEShopping\obj\Debug\TOMEShopping.exe
+E:\AT\Day10\CreditCardValidation\TOMEShopping\obj\Debug\TOMEShopping.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lunch>
+  <Menu>
+    <Stater>Masala Pappad</Stater>
+    <Soup>Veg clear soup</Soup>
+    <MainCourse>Naan,Kulcha</MainCourse>
+    <SideDish type="Gravy">Cashew Masala</SideDish>
+    <SideDish type="Dry">Baby corn honey &amp; chilli fry</SideDish>
+    <MealCombo price="200"/>
+  </Menu>
+  
+</Lunch>

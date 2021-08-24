@@ -1,0 +1,50 @@
+Student Management Casestudy Day 11
+-------------------------------------------------------
+
+Topics Covered
+----------------------
+Exception Handling
+
+Plan
+------
+- Create a user defined Exception called as EnrollmentException
+
+- Then modify the enroll method we wrote on Day 10  to throw the above exception:
+	- In case if the Student tries to enroll for the same course again
+	- In case if the no. of students for a course exceeds 4
+
+
+- (Optional) 
+	Next  create console based user interface for our application.
+
+- To start with, create an abstract class/interface (UserInterface) with the following methods:
+	public void showFirstScreen();
+	public void showStudentScreen();
+	public void showAdminScreen();
+	public void showAllStudentsScreen();
+	public void showStudentRegistrationScreen(); // Execute the register method of AppEngine class
+	public void introduceNewCourseScreen();
+	public void showAllCoursesScreen();
+
+  - Then code for showFirstScreen() may look like this in CSharp
+
+	public void showFirstScreen() {
+		System.out.println("Welcome to SMS(Student Mgmt. System) v1.0");
+		System.out.println("Tell us who you are : \n1. Student\n2. Admin");
+		System.out.println("Enter your choice ( 1 or 2 ) : ");
+		Scanner scanner = new Scanner(System.in);
+		int op = Integer.parseInt(scanner.nextLine());
+		switch(op) {
+		case 1:
+			showStudentScreen();
+			break;
+		case 2:
+			showAdminScreen();
+			break;
+		}
+	}
+
+- From the App class now, all we would do in the main method is:
+   - new UserInterface().showFirstScreen();
+
+

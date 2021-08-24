@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!--Declaration-->
+
+<!--DTD-->
+<!DOCTYPE books [
+<!ELEMENT book (title, author)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+]>
+
+<!--Content-->
+<books>
+<book>
+<title> My Experiment with Truth</title>
+<author>M.K Gandhi</author>
+</book>
+
+<book>
+<title>A Suitable Boy</title>
+<author>Vikarm Seth</author>
+</book>
+
+</books>

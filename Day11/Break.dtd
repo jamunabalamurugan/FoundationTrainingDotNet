@@ -1,0 +1,13 @@
+ <!ELEMENT Breaks (Break+)>
+  <!--This is an DTD Comment-->
+  <!ELEMENT Break (
+	Time,
+	(Duration|EndTime),
+	(Snacks?)
+)>
+  <!ELEMENT Time (#PCDATA)>
+  <!ELEMENT Duration (#PCDATA)>
+  <!ELEMENT EndTime (#PCDATA)>
+  <!ELEMENT Snacks (#PCDATA)>
+  <!ATTLIST Break type (Morning|Evening|LateEvening) #REQUIRED>
+<!ATTLIST Time ttype (AM|PM) "AM">
