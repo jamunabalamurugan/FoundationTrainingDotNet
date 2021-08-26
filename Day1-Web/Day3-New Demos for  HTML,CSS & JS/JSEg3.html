@@ -1,0 +1,24 @@
+<html><head>
+    <title>Strings  
+    </title></head>
+    <body>
+    <h2>parse Int and parse float demo </h2>
+    <script  type='text/javascript'>
+    function add(x,y)
+    {
+
+    var total;
+    total=parseInt(x) + parseInt(y);
+    console.log(total);
+    document.getElementById("Result").value=total;
+    document.getElementById("resdiv").innerHTML=total;
+
+    }</script>
+    1st number <input type="text" id="Myname1"  value=" "><br>
+    2nd number <input type="text"  id="Myname2"  value=" "><br>
+    Result <input type="text" id="Result">
+    <div id="resdiv"> </div>
+    <input type="button"  name="submit"  value="Total"  onClick="add(Myname1.value,Myname2.value)">  
+    <input type="button"  name="ok"  value="Largest"  onClick="add(5,6)">  
+    </body>
+    </html>

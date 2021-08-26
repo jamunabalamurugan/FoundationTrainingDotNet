@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contextual Selectors</title>
+<style type="text/css">
+
+#container {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	color: blue;
+}
+
+#container p { color: red; }
+h3 { color: red; }
+
+td h3 {color: blue; }
+
+.body{color:brown}
+
+</style>
+
+</head>
+
+<body>
+<table width="450" border="0">
+  <tr>
+    <td colspan="2"><h3>table H3 text is blue</h3></td>
+  </tr>
+  <tr>
+    <td width="205">&nbsp;</td>
+    <td width="235">&nbsp;</td>
+  </tr>
+</table>
+<h3>H3 text is red</h3>
+<p>&nbsp;</p>
+<div id="container">
+  <p>&lt;p&gt; text inside  id "container" is red</p>
+  <table width="600" border="0">
+    <tr>
+      <td>text is blue</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+</div>
+<h1 class="body">This is Heading using class body&nbsp;</h1>
+    
+</body>
+</html>

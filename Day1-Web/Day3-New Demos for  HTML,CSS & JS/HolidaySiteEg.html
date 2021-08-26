@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Layout and HTML5</title>
+    <style>
+        *{
+            box-sizing:border-box;
+        }
+        header,footer{
+            background-color:silver;
+                text-align:center;
+                font-size:30px;
+                padding:30px;
+        }
+        nav li {
+            list-style-type: none;
+            padding: 0;
+          
+        }
+       nav {
+            overflow: hidden;
+            background-color: #333;
+        }
+       nav li a {
+            float: left;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            margin: 0px;
+            padding: 10px;
+            background-color:antiquewhite;
+        }
+        article {
+            margin: 5px;
+            padding: 10px;
+            background-color: white;
+        }
+        #float {
+            float: right;
+            padding:0px;
+            /* height: auto; */
+            height:50%; 
+             width: auto; 
+            /* height:300px;
+            width:300px; */
+            /* margin-top:10px; */
+            margin:10px 20px 10px 20px;
+        }
+        
+    </style>
+</head>
+<body>
+    <header>
+    <h1>World's Amazing Place</h1> 
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#" style="float:right">Signup</a></li>
+            <li><a href="FormsGetEg.html" style="float:right">Login</a></li>
+
+        </ul>
+    </nav>
+    <section>
+        <h1>Amazing Place</h1> 
+        <article>
+            
+                <h2>Northern Lake Baikal, Russia</h2>
+                <table>
+                  
+                    <tr>
+                        <td>
+                            Another amazing lake, this one is located in southern Siberia and is the world’s largest freshwater bit of blue.
+                            The water round these parts freezes into sheets of turquoise ice in
+                            winter that might look more at home in Superman’s Fortress of Solitude.
+                            Temperatures can plummet to -19°C from December to February, so don’t forget to pack the onesie.
+                        </td>
+                        <td><img src="Images/Lake.jpg"  id="float" /></td>
+                    </tr>
+                </table>
+         
+            
+        </article>
+        <article>
+            <h2>
+                Kuang Si Falls, Luang Prabang, Laos
+            </h2>
+            <table>
+                <tr>
+                    <td>
+                        Already a top holiday destination for backpackers,
+                        the Laotian city of Luang Prabang is temptingly close to Kuang Si Falls,
+                        a three tier splash spectacular with waters so clear and blue it’ll be hard to resist jumping straight in. Hike the trails around the area to escape the tour groups
+                        and find your own secret slice of paradise
+                    </td>
+                    <td><img src="Images/A1.jpg" id="float" />
+
+                    </td>
+                </tr>
+            </table>
+            <div></div>
+        </article>
+    </section>
+    <footer>&copy; 2021 Amazing place All rights reserved</footer>
+</body>
+</html>

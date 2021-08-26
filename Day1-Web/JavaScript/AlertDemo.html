@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Beginning of JavaScript -
+
+function MsgBox (textstring) {
+alert ("Hello " + textstring) 
+
+var txt = " ";
+var person = {fname:"Kavin", lname:"Kumar", age:25};
+var x;
+for (x in person) {
+    txt += person[x] + " ";
+}
+document.getElementById("p1").innerHTML = txt;
+}
+
+
+// - End of JavaScript - -->
+</script>
+
+
+
+</HEAD>
+<BODY>
+<FORM>
+<INPUT NAME="text1" TYPE=Text>
+<p id="p1"></p>
+<INPUT NAME="submit" TYPE=Button VALUE="Show Me" onClick="MsgBox(form.text1.value)">
+</FORM>
+</BODY>
+</HTML>

@@ -1,0 +1,21 @@
+body{
+    background-color:darksalmon;
+    border-width:5px;
+    border-color:deeppink;
+    border-style:solid;
+    }
+    
+    #sec1{
+    
+        left:0px;
+        top:0px;
+        background-color:yellow;
+    }
+    #myh1{
+        background-color: crimson;
+    }
+
+    span{
+        color:white;
+	   border: red double 1px;
+    }

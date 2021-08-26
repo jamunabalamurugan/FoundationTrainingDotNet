@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<form>
+			<h1> employeee details</h1>
+			<label> EmpId: </label>
+			<input type = "textbox" name= "txtEmpId" />
+		</form>
+	</body>	

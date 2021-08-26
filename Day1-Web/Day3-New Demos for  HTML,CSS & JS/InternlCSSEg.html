@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+		<title>Internal CSS Styles</title>
+
+		<style type="text/css">
+			
+			/* Grouped Selectors - Common Formatting */
+
+			h1, h2 {
+				color: #d0d3db;
+				font-family: Verdana, Arial, Helvetica, sans-serif;
+			}
+
+
+			/* Independent Selectors - Unique Formatting 
+			body {
+				background-color: #000000;
+			}
+			*/
+
+			h1 {
+				font-size: 16px;
+			}
+
+			h2 {
+				font-size: 14px;
+			}
+
+
+			p {
+				font-family: Verdana, Arial, Helvetica, sans-serif;
+				font-size: 12px;
+				color: #333333;
+			}
+
+			/* Classes - Unique Formatting */
+
+				.redText {
+					color: #ff0000;
+				}
+
+			/* IDs - Layout Formatting */
+
+				#mainContent {
+					background-color: #ffffff;
+				}
+
+
+		</style>
+
+	</head>
+	<body>
+		<div id="mainContent">
+
+		<h1>Cool Photos from the Hubble Space Telescope</h1>
+		<p>
+			The Hubble Space telescope has captured many <em class="redText">truly remarkable</em> images over the last 18 years. 
+		</p>
+
+		<h2>Learn more</h2>
+		<p>
+			There are many <em>free</em> sample images courtesy of NASA, which are available for download over the internet.
+		</p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,13 @@
+body{
+background-color:teal;
+border-width:3px;
+border-color:red;
+border-style:solid;
+}
+
+#sec1{
+
+	left:0px;
+	top:0px;
+	background-color:yellow;
+}

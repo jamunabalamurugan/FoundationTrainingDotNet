@@ -1,0 +1,117 @@
+<html>
+<body>
+	<form action="Index.html"> 
+		<label for="empname">Name:</label>
+		<input type="text" id="empname" name="empname" placeholder="Enter your Name" required><br/>
+
+		Password:
+		<input type="password" required pattern="[0-9][0-9][0-9][0-9]" ><br/>
+		<div>
+			Gender:
+			<label for="male">Male</label>
+			<input type="radio" name="gender" id="male" value="male">
+			<label for="female">Female</label>
+			<input type="radio" name="gender" id="female" value="female">
+			<label for="other">Other</label>
+			<input type="radio" name="gender" id="other" value="other">
+		</div>
+		
+
+		Birth Date<input type="date"><br/>
+
+		Country:
+		<select>
+			<option>India</option>
+			<option>Srilanka</option>
+			<option>Singapore</option>
+			<option>Dubai</option>
+		</select><br/>
+
+		Food Type:
+		<input list="foodtype">
+		<datalist id="foodtype">
+			<option>Indian</option>
+			<option>Srilankan</option>
+			<option>Chinese</option>
+			<option>Arabian</option>
+		</datalist><br/>
+
+		<input type="checkbox" checked>UG
+		<input type="checkbox">PG
+
+		<input type="submit">
+		<input type="reset">
+	</form>
+
+   <form action="Page1.html">
+    <table border="1">
+ 	<tr>
+	  <td> Name:</td>
+	  <td>
+	    <input type="text" required placeholder="Please enter your name"/> 
+          </td>
+    </tr>
+	<tr>
+	  <td> Password:</td>
+	  <td>
+	    <input type="password" required pattern = "[0-9][0-9][0-9][0-9]"/> 
+          </td>
+        </tr>	
+	<tr>
+	  <td> Date of Birth:</td>
+	  <td>
+	    <input type="Date" required /> 
+          </td>
+        </tr>	
+	<tr>
+	  <td> Age:</td>
+	  <td>
+	    <input type="number" min="18" max="54"/> 
+          </td>
+        </tr>
+	<tr>
+	  <td> Gender:</td>
+	  <td>
+	    <input type="radio" name="rdbGender">Male <input type="radio" name="rdbGender">Female
+          </td>
+        </tr>
+	<tr>
+	  <td> Graduation:</td>
+	  <td>
+	    <input type="checkbox" checked>UG <input type="checkbox">PG
+          </td>
+        </tr>
+	<tr>
+	  <td> Country:</td>
+	  <td>
+	    <select>
+		<option>India</option>
+		<option>UK</option>
+		<option>USA</option>
+		<option>China</option>
+	    </select>
+          </td>
+        </tr>
+	<tr>
+	  <td> Food Type:</td>
+	  <td>
+	    <input list="foodtype">
+	    <datalist id="foodtype">
+		<option>Indian</option>
+		<option>Continental</option>
+		<option>American</option>
+		<option>Chinise</option>
+	    </datalist>
+          </td>
+        </tr>
+	<tr>
+     	  <td colspan="2"><input type="submit"/></td>
+	 	 
+	</tr>
+	<tr>
+		<td><input type="reset"/></td>
+	</tr>
+    </table>
+   </form>
+</body>
+</html>
