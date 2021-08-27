@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Javascript</title>
+</head>
+<body>
+    Hello World!
+    <p>Say what? <input id="sayThis" size=40></P>
+    <P>
+        How many times? <select id='howMany'>
+            <option value=1>1</option>
+            <option value=5 selected>5</option>
+            <option value=10>10</option>
+            <option value=20>20</option>
+        </select></p>
+    <p><button onClick='doLoop()'>Do It!</button>
+ 
+        <div id="results"></div>
+        <script>
+            function doLoop() {
+         var sayWhat = document.getElementById('sayThis').value;
+        var maxLoop = document.getElementById('howMany').value;
+        var str = '';
+        for (var i=1; (i<=maxLoop); i++)
+        {
+            str = str + i + ':' + sayWhat + ' <br>';
+        }
+        document.getElementById("results").innerHTML=str; }
+        </script>
+</body>
+</html>

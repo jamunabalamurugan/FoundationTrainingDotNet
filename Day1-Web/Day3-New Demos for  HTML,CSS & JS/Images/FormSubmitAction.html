@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Validate</title>
+        <script>
+            
+            //alert("Inside script");
+            function check()
+            {
+               // alert("Inside check method");
+            // with(document.forms[0])
+            // {
+                // if ((name.value=="") || (address.value==""))
+                // {
+                //     alert("Please ensure that all fields are filled up"); 
+                //     return false;
+                // }
+                s=like[0].checked?like[0].value:like[1].value;
+                var name=document.getElementById("name");
+                console.log(name.value);
+                s="Thankyou,"+name.value+". You "+ s +" our site.\n";
+                s=s+"Your suggesstion (";
+                for(i=0;i<better.length;i++)
+                if (better[i].checked) 
+                { 
+                    s=s+	better[i].value+";"
+                }
+                s=s+" ) are recorded ";
+            //}
+            //alert(s);
+            console.log(s);
+            return true;
+            }
+</script>
+</head><body>
+<form onSubmit="return check()">
+Name: <input type="text" id="name" name="name"><br><br>
+Address: <input type="text" id="address" name="address"><br><br>
+Do you like our site
+<input type=radio name="like" value="like" checked>Yes
+<input type=radio name="like" value="don't like">No <br><br> 
+Tell us how we can make this site better for you:<br>
+<input type=checkbox name="better" value="Change the bg color">Change the bg color
+<br>
+<input type=checkbox name="better" value="Change the fg color">Change the fg color
+<br>
+<input type=checkbox name="better" value="Change the layout">Change the layout
+<br>
+<input type=checkbox name="better" value="Include more services">Include more services
+<br><br>
+<input type="submit"/>
+</form>
+</body></html>

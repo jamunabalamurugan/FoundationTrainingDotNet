@@ -1,0 +1,42 @@
+	Web Teacher Consulting
+ 
+javascript tutorial graphic
+
+
+Webteacher Software now offers
+
+OK, once again. Here is the script for
+you to look over before we go through it together.
+<HTML>
+<HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Beginning of JavaScript -
+
+function encode(text) { Ref="0123456789abcdefghijklmnopqrstuvwxyz.-~ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+Result=""
+for (Count=0; Count<text.length; Count++) {
+
+Char=text.substring (Count, Count+1);
+Num=Ref.indexOf (Char);
+EncodeChar=Ref.substring(Num+1, Num+2)
+Result += EncodeChar
+} document.form1.result.value=Result
+}
+// - End of JavaScript - -->
+</SCRIPT>
+
+</HEAD>
+<BODY bgcolor="beige">
+
+
+<FORM name="form1">
+<table border=0><tr><td>
+Type your word<td><INPUT NAME="input" TYPE=Text><br><td>
+<INPUT TYPE=Button VALUE="submit" onClick="encode(this.form.input.value)"><tr><td>
+Result:<td><INPUT NAME="result" TYPE=Text>
+
+</table>
+</FORM>
+</BODY>
+</HTML>

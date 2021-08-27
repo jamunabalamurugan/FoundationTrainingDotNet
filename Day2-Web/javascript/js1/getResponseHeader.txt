@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>The getResponseHeader() function is used to return specific header information from a resource, like length, server-type, content-type, last-modified, etc.</p>
+<p>Last modified: <span id="demo"></span></p>
+
+<button onclick="loadDoc('ajax_info.txt')">Get "Last-Modified" information</button>
+
+<script>
+function loadDoc(url) {
+  var xhttp=new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (xhttp.readyState == 4 && xhttp.status == 200) {
+      document.getElementById("demo").innerHTML = xhttp.getResponseHeader('Last-Modified');
+    }
+  };
+  xhttp.open("GET", url, true);
+  xhttp.send();
+}
+</script>
+
+</body>
+</html>

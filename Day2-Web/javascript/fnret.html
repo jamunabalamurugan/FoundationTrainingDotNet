@@ -1,0 +1,25 @@
+<html>
+
+<body>
+<input type="button" value="click me" onclick="test1()"/>
+
+<script type="text/javascript">
+
+var test1=function()
+{
+alert("string");
+return "This is a string1";
+}
+
+var tcopy=test1;
+alert("test1 "+test1);
+alert("tcopy "+ tcopy);
+
+var tcopy2=test1();
+alert("tcopy2" +tcopy2);
+
+</script>
+
+
+</body>
+</html>

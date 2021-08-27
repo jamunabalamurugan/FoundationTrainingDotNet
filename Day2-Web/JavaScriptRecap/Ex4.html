@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Function</title>
+    <style>
+        #p1{
+            font-family:Algerian;
+            font-size:40px;
+            color:cornflowerblue;
+
+        }
+        #Result{
+            color:brown
+        }
+    </style>
+</head>
+<body>
+    <p id="p1">Passing the Method Result:<span id="Result">hello</span></p>
+   
+    <div id="Message"></div>
+    <script>
+        function Mul(a, b) {
+            console.log("Inside function");
+            return a * b;
+        }
+        document.getElementById("Result").innerHTML = Mul(4, 5);
+        document.getElementById("Message").innerHTML =
+            '<p><font color=green>Welcome!!!</font></p>';
+
+        
+    </script>
+</body>
+</html>

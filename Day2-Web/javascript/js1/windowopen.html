@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+
+<body>
+<script>
+    function openfile(){
+    var url=document.getElementById("txturlname").value;
+    alert(url);
+    
+    
+   //if "win2" doesn't exist or has been closed closed
+    if (typeof win2=="undefined" || win2.closed)
+        win2=window.open(url);
+    else //else if window already exists, just load URL into it
+        win2.location=url;
+
+    }
+</script>
+<input type="text" id="txturlname" >
+<button name="btnClick" onclick="openfile()" >Open File</button>
+
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction() {
+    var x = document.getElementById("fname");
+    x.value = x.value.toUpperCase();
+}
+function btn1function()
+{
+alert("hi");
+alert(document.getElementById("fname").value);
+document.getElementById("outputdiv").innerHTML="Hi  "+document.getElementById("fname").value;
+}
+</script>
+</head>
+<body>
+
+Enter your name: <input type="text" id="fname" onchange="myFunction()">
+<p>When you leave the input field, a function is triggered which transforms the input text to upper case.</p>
+<input type="button" id="btn1" onclick="btn1function()" value="Click me"/>
+<div id="outputdiv"></div>
+
+</body>
+</html>

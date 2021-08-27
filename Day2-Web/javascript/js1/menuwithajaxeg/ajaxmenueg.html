@@ -1,0 +1,129 @@
+<html>
+
+<head>
+
+<script src="request.js"></script>
+
+<script>
+
+function handleOnChange(dd1)
+
+{
+
+  var idx = dd1.selectedIndex;
+
+  var val = dd1[idx].text;
+
+  var par = document.forms["frmSelect"];
+
+  var parelmts = par.elements;
+
+  var prezsel = parelmts["prez"];
+
+  var country = val;
+
+  if (country != "Select country")
+
+  {
+
+ 	Http.get({
+
+		url: "./" +  country + ".txt",
+
+		callback: fillPrez,
+
+		cache: Http.Cache.Get
+
+	}, [prezsel]);
+
+  }
+
+}
+
+
+
+function fillPrez(xmlreply, prezelmt)
+
+{
+
+  if (xmlreply.status == Http.Status.OK)
+
+  {
+
+    var prezresponse = xmlreply.responseText;
+
+    var prezar = prezresponse.split("|");
+
+    prezelmt.length = 1;
+
+    prezelmt.length = prezar.length;
+
+    for (o=1; o < prezar.length; o++)
+
+    {
+
+      prezelmt[o].text = prezar[o];
+
+    }
+
+  }
+
+  else
+
+  {
+
+    alert("Cannot handle the AJAX call.");
+
+  }
+
+}
+
+
+
+</script>
+
+</head>
+
+<body>
+
+
+
+<form name="frmSelect">
+
+<p>
+
+<select name="country" onChange="handleOnChange(this);">
+
+<option>Select country</option>
+
+
+
+<option>France</option>
+
+<option>Germany</option>
+
+<option>Spain</option>
+
+</select>
+
+</p><p>
+
+
+
+<select name="prez">
+
+<option>Select head of government</option>
+
+</select>
+
+</p>
+
+</form>
+
+
+
+</body>
+
+</html>
+
+

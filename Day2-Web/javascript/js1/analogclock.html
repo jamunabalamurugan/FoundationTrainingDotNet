@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Page Title</title>
+</head>
+
+<body>
+    <p>Current time is: <span id="id39018"> </span></p>
+
+<script>
+    var displayArea = document.getElementById("id39018");
+
+// conver number num to string, pad 0 in front to make it 2 digits
+function format(num) {
+    var numStr = num.toString();
+    if (numStr.length === 1) {
+        return "0" + numStr;
+    } else {
+        return numStr;
+    }
+}
+
+function updateTimeDisplay() {
+    var dd = new Date();
+    var hh = dd.getHours();
+    var mm = dd.getMinutes();
+    var ss = dd.getSeconds();
+    displayArea.textContent = format(hh) + ":" + format(mm) + ":" + format(ss);
+}
+
+setInterval(updateTimeDisplay, 1000);
+</script>
+
+
+</body>
+</html>

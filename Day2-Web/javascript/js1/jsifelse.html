@@ -1,0 +1,31 @@
+<html>
+<body>
+
+<p>Click the button to get a "Good day" greeting if the time is less than 15:00. or get a "Good evening"message after that</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction()
+{
+var x="";
+var time=new Date().getHours();
+	
+if (time<15)
+  {
+  x="Good day";
+  }
+else
+{
+x="Good evening";
+}
+document.getElementById("demo").innerHTML=x;
+}
+</script>
+
+</body>
+</html>
+
+ 

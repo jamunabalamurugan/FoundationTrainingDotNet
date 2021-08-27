@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Page Title</title>
+    <style>
+        #heart53100 {
+position:absolute;
+top:300px;
+left:20px;
+z-index:2;
+}
+    </style>
+</head>
+
+<body style="height: 1000px;">
+<script>
+
+// change the position of a “div#heart53100” element.
+
+(function () {
+
+    var offsetFromTop = window.innerHeight/2; // number of pixels of the widget should be from top of the window
+    var updateFrequency= 50; //milisecond. The smaller the value, smooth the animation.
+    var chaseFactor = .05; // the closing-in factor. Smaller makes it smoother.
+
+    var yMoveTo=0;
+    var yDiff=0;
+
+    var movingWidget = document.getElementById("heart53100");
+    movingWidget.style.position="absolute";
+    movingWidget.style.zIndex="2";
+    movingWidget.style.top= offsetFromTop.toString() + "px";
+    movingWidget.style.left="1ex";
+
+    function ff(){
+        // compute the distance user has scrolled the window
+        yDiff = (navigator.appName === "Microsoft Internet Explorer") ? (yMoveTo - document.documentElement.scrollTop) : (yMoveTo - window.pageYOffset) ;
+
+        if ( Math.abs(yDiff) > 9) {
+
+            // turn off now, prevent the event repeatedly fired when user scroll repeatedly
+            window.removeEventListener("scroll", ff);
+
+            yMoveTo -= yDiff*chaseFactor;
+            movingWidget.style.top  = (yMoveTo+offsetFromTop).toString() + "px" ;
+            setTimeout(ff, updateFrequency); // calls itself again
+        } else {
+            window.addEventListener("scroll", ff , false); // turn back on
+        }
+    }
+
+    window.addEventListener("scroll",ff,false);
+
+})();
+</script>
+
+<div id="heart53100">♥</div>
+</body>
+</html>

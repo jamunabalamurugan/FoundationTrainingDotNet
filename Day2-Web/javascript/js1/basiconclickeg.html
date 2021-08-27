@@ -1,0 +1,19 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Documentwriteeg</title>
+<body>
+Please enter ur name <input id='userInput' size=60>
+ <button  onClick='userSubmit()'>Submit</button><BR> 
+<P><div id='result'></div>
+<script type='text/javascript'>
+ function userSubmit()
+ {
+	 var UI=document.getElementById('userInput').value;
+	 document.getElementById('result').innerHTML+='Happy Morning <b>'+UI+'</b>';
+	 document.getElementById('result').attr('text-transform','uppercase');	
+ }
+ </script> 
+ </body>
+ </html>

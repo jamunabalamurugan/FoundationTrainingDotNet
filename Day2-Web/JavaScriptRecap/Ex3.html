@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h2>Number</h2>
+<p id="len" style="color:blue"></p><br/>
+    <h2>String</h2>
+ <p id="str" style="color:crimson"></p><br />
+   <h2>object</h2>
+   <p id="obj" style="color:darkmagenta"></p><br />
+
+    <script>
+        var length = 20;
+        var Name = "Jamuna";
+        var x = { firstname: "Kavin", Lastname: "Kumar", Age: 25 };
+        document.getElementById("len").innerHTML = length;
+        document.getElementById("str").innerHTML = Name;
+        document.getElementById("obj").innerHTML = x.firstname + " " + x.Lastname + " " + x.Age;
+    </script>
+
+</body>
+</html>

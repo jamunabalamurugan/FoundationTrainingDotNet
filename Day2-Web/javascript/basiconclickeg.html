@@ -1,0 +1,33 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Documentwriteeg</title>
+<body>
+	<form action="animationeg1.html" onsubmit="return check()">
+Please enter ur name <input id='userInput' size=60>
+ <button  onClick='userSubmit()'>Submit</button><BR> 
+	<input type="submit" value="Save">
+ </form>
+<P><div id='result'></div>
+<script type='text/javascript'>
+function check()
+{
+	var str=document.getElementById("userInput").value;
+	if(str!="")
+		{
+			console.log(str);
+			return true;
+		}
+	else
+		return false;
+}
+ function userSubmit()
+ {
+	 var UI=document.getElementById('userInput').value;
+	 document.getElementById('result').innerHTML+='Happy Morning <b>'+UI+'</b>';
+	//document.getElementById('result').attr('text-transform',;	
+ }
+ </script> 
+ </body>
+ </html>

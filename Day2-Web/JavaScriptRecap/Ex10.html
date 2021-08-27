@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+
+        function validateForm() {
+
+            var x = document.forms[0]["UserName"].value;
+            var xx=document.getElementById("UserName").value;
+
+            var y = document.forms["Register"]["pwd"].value;
+
+            var z = document.forms["Register"]["mobileno"].value;
+
+
+
+            var phoneno = /\d{10}$/
+
+            if (x == "") {
+
+                alert("Name must be filled out");
+
+                return false;
+
+            }
+
+            else if (y.length < 6) {
+
+                alert("Password must more than 6 digits");
+
+                return false;
+
+            }
+
+            else if (!z.match(phoneno)) {
+
+                alert("MobileNo should be in 10 digit ");
+
+                return false;
+
+
+
+            }
+
+        }
+
+    </script>
+</head>
+<body>
+    <form name="Register" onsubmit="return validateForm()" action="Ex1.html">
+
+        Enter your Name
+
+        <input type="text" name="UserName" value="UserName" /><br /><br />
+
+        Enter your Password
+
+        <input type="password" name="pwd" /><br /><br />
+
+        Enter Your Age
+
+        <input type="number" name="UserAge" min="20" max="30" required /><br /><br />
+
+        Enter Your Mobile No
+
+        <input type="text" name="mobileno" /><br /><br />
+
+        Enter Email
+
+        <input type="text" name="UserEmail" /><br /><br />
+
+        Gender<br />
+
+        <input type="radio" name="gender" value="male" checked> Male<br>
+
+        <input type="checkbox" name="gender" value="female">Female <br>
+
+        <input type="checkbox" name="gender" value="VoterId">other<br>
+
+        <br />
+
+        List of Proof
+
+        <br />
+
+        <input type="checkbox" name="Proof" value="Pancard"> PanCard<br>
+
+        <input type="checkbox" name="Proof" value="Aadharcard">AadharCard <br>
+
+        <input type="checkbox" name="Proof" value="VoterId">VoterId<br>
+
+        <br />
+
+        <input type="submit" />
+
+
+
+        <input type="reset" />
+
+
+
+    </form>
+</body>
+</html>

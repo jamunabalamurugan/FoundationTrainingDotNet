@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Events</title>
+
+    <script>
+        function Change() {
+           // var item = "I am displayed by calling the function";
+          //  document.getElementById("p1").innerHTML = item;
+
+            var item = document.getElementsByTagName("div");
+            console.log("Inside function");
+            document.getElementById("p1").innerHTML = item[0].innerHTML;
+            console.log("Next to element");
+        }
+    </script>
+</head>
+<body>
+    <div> I am first Div</div>
+    <div>I am second div</div>
+    <p id="p1" style="color:darkcyan"></p>
+    <button onclick="Change()">Call  Function</button>
+
+    
+</body>
+</html>

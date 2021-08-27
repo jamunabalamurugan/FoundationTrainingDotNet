@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Click the button to loop through the properties of an object named "person".</p>
+<button onclick="myFunction()">Try it</button>
+<p id="demo"></p>
+
+<script>
+function myFunction()
+{
+var x;
+var txt="";
+var person={a:"John",b:"Doe",c:"25",d:"5000"}; 
+
+for (x in person)
+{
+txt=txt+" " + person[x];
+}
+
+document.getElementById("demo").innerHTML=txt;
+}
+</script>
+</body>
+</html>

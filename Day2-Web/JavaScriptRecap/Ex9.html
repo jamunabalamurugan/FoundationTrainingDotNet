@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Chars only</title>
+    <script type='text/javascript'>
+function isAlphabet(elem, helperMsg){
+    // var letter=document.getElementById("letters");
+
+
+	var alphaExp = /^[a-zA-Z]+$/;
+	if(elem.value.match(alphaExp)){
+		return true;
+	}else{
+		alert(helperMsg);
+		elem.focus();
+		return false;
+    }
+    
+}
+    </script>
+</head>
+<body>
+    <form action="Ex10.html">
+        Letters Only: <input type='text' id='letters' required onchange="isAlphabet
+        (document.getElementById('letters'), 'Letters Only Please')" /><br/>
+
+        Numbers Only:<input type="text" pattern="[0-9][0-9]"/><br/>
+
+        <input type='button'
+               onclick="isAlphabet
+        (document.getElementById('letters'), 'Letters Only Please')"
+               value='Check Field' />
+               <input type="submit">
+
+    </form>
+</body>
+</html>

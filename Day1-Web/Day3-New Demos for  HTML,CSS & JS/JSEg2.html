@@ -5,12 +5,21 @@
     function MsgBox (myname) {
     alert ("Hello " + myname) }
 
+    function Hello()
+    {
+        document.write("Welcome to Javascript functions")
+    }
+
     </SCRIPT>
     </HEAD>
     <BODY>
     <FORM>
+        Enter Name:
     <INPUT NAME="text1" TYPE=Text>
-    <INPUT NAME="submit" TYPE=Button VALUE="Show Me" onClick="MsgBox(text1.value)">
+    <INPUT NAME="submit" TYPE=Button VALUE="Show Me" onClick="Hello();MsgBox(text1.value)">
+    <script>
+    MsgBox("All")
+    </script>
     </FORM>
     </BODY>
     </HTML>

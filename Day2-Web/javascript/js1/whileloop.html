@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"> This is the original text</p>
+<form>
+<button name="submit" value="sumbit" onClick="displayitem();">Submit</button>
+</form>
+<script>
+function displayitem()
+{
+var cars = ["BMW", "Volvo", "Saab", "Ford"];
+var i = 0;
+var text = "";
+while (cars[i]) {
+    text += cars[i] + "<br>";
+    i++;
+}
+document.getElementById("demo").innerHTML = text;
+}
+</script>
+
+</body>
+</html>
+

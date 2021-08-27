@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        var Result;
+        function Sub(a, b) {
+            Result = a - b;
+              //document.writeln(Result);
+            document.getElementById("p1").innerHTML = Result;
+
+           
+            document.getElementsByName("res")[0].value = Result;
+        }
+
+
+    </script>
+
+</head>
+<body>
+    <form>
+        Enter the number1   <input type="number" name="n1" /><br />
+        Enter the number2  <input type="number" name="n2" /><br/>
+        <label for="output">Result is:</label>
+        <input type="text" name="res" value="" />
+
+        <button onclick="Sub(form.n1.value,form.n2.value)">Sub</button>
+        <p id="p1"> </p>
+        <!--<div>Result:<span id="res" style="color:crimson"></span></div>-->
+
+
+    </form>
+</body>
+</html>
