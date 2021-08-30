@@ -1,0 +1,55 @@
+What is SQL Server?
+Its a client/server relational database management system that uses TSQL to send requestss between a client and SQL Server.
+
+What is Client/Server Architecture?
+
+Client------------->SQL Server(RDBMS)
+      T-SQL statement
+      <---------------
+       Results
+
+The client is responsible for Business Logic and Preenting data to the user...It typically runs on one or more computers
+
+Server manages the databases and allocates the available server resources such as memory,disk operation,network bandwidth
+
+What is RDBMS responsible for?
+1. Maintaining the relationship between data in the database
+2.Ensure that data is stored correctly-that the rules defining relationships between data are not violated
+3.Recover all data to a  point of known consistentcy in the event of a system failure
+
+Transact-SQL
+A version of Structured Query Language(SQL)
+database query and programming logic
+ANSI(The American National Standards Institute) and the ISO(International Standards Organiztion) have defined standards SQL. T-SQL supports the latest ANSI SQL standard. ANSI SQL- 
+
+MS -SQL Server Services
+1.MSSQLServer is the Database Engine-component to proces all TSQL statements
+2.SQLServerAgent Service
+
+SQL Server Security
+--Validates the user ata 2 levels
+1.Login authentication
+2.Permission
+
+Login Authentication
+1.SQL Server Authentication
+2. Windows Authentication
+
+Types of Databases
+1.System-master,model,tempdb
+2.User-hrdb,northwind,pubs
+
+A Database is a collection of Data tables,other objects like views,stored procedures,rules,defaults,triggers,roles,index,data type
+
+server.database.owner.object
+
+System  Catalog
+Its found in master db ,is a collection of system tables that stores meta data about the entire system and all other databaxes
+
+System stored procedures
+eg. sp_help tblemployee
+
+System Function
+select user_name()
+
+
