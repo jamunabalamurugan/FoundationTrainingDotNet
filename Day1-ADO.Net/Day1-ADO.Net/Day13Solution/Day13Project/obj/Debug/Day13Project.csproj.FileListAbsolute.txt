@@ -1,0 +1,14 @@
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day13Project.csprojAssemblyReference.cache
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day13Project.csproj.CoreCompileInputs.cache
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day7Project.exe
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day7Project.pdb
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\bin\Debug\Day7Project.exe.config
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\bin\Debug\Day7Project.exe
+E:\CTS\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\bin\Debug\Day7Project.pdb
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\bin\Debug\Day7Project.exe.config
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\bin\Debug\Day7Project.exe
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\bin\Debug\Day7Project.pdb
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day13Project.csprojAssemblyReference.cache
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day13Project.csproj.CoreCompileInputs.cache
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day7Project.exe
+E:\CTS\Jan 2021\C#\Week3CSharp\C#_Day13\Day13Solution\Day13Project\obj\Debug\Day7Project.pdb
