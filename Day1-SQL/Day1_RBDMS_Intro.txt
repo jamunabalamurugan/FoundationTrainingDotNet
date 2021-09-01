@@ -1,0 +1,90 @@
+E F Codd
+RDBMS
+  Entity-Table
+  Attribute - Column
+  Tuple - Row
+  Cardinality - No of rows
+  Arity/Degree - No of columns
+  Key/Primary key - Unique and not null
+  Composite Key - More than one column combines to become the primary key
+  Candidate Key - Eligible to become the primary key
+  Alternate Key - Other Candidate keys after choosing the primary key
+  Strong Entity
+  Weak enity
+  Single Value Attr
+  MultiValue Attr
+  Derived Attr
+  Complex Attr
+
+  Normalization
+  1st NF - Primary key
+           No Multivalue Attr
+      	   Every Column- Similar type of data
+  2nd NF - Table should be in 1NF
+           No Partial depend
+  3rd NF - Table should be in 2NF
+   	   No Transitive Depend
+
+A shop -> One branch
+Shop sells produts
+Products supplied by diff suppliers
+Each sup -> a lot of products
+Customer buys products
+Bills have to be maintained
+
+Customer
+  CID -PK -C001 - string - char(4)(C001-C999)
+  Name - Ramu - string - Varchar(20) - Ramu - 4, Sooomu -6 chars
+  Phone - 1234567890 - string 
+  Email - abc@gmail.com - string
+Products
+  PID-PK - 100,101,102 - int
+  Name - Doll- varchar(50)
+  Price - 12.3 - float >=0
+  Quantity - 10 - int >=
+  Dec - text - varchar(1000)
+Suppliers
+  SID -PK
+  Contact_Name
+  Phone
+Supp_Product
+  Ship_NO - PK int identity
+  PID - FK 
+  SID - FK
+  Sup_Date
+  Quantity
+Bill
+  B_No - PK int 1
+  B_Date date 
+  CID - FK
+  Total_Amount
+BillDetails
+  B_NO -PK
+  PID -PK
+  Quantity
+
+SQL 
+
+DDL
+  Create
+  Alter the structure
+   Add, edit, drop columns +Constrains
+  Drop 
+
+DML
+  Insert 
+  Update
+  Delete
+
+
+
+
+
+
+
+
+
+
+
+
+
