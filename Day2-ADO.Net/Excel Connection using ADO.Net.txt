@@ -1,0 +1,84 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
+using System.Data.OleDb;
+
+namespace ADOExample
+{
+    class exceleg
+    {
+        OleDbConnection excelConnection=null;
+        OleDbDataAdapter adapter= null;
+        
+        public void connectionfn()
+        {
+            try
+            {
+                excelConnection = new OleDbConnection();
+                excelConnection.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\Jamuna\\abc.xlsx;Extended Properties='Excel 8.0;HDR=YES;'";
+                excelConnection.Open();
+                DataTable dtTables = new DataTable();
+
+                //to get the schema of the workbook.
+                dtTables = excelConnection.GetSchema();
+
+                //get the tables in the workbook
+                dtTables = excelConnection.GetOleDbSchemaTable(OleDbSchemaGuid.Tables, null);
+                String[] excelSheets = null;
+                if ((dtTables != null))
+                {
+                    excelSheets = new String[dtTables.Rows.Count];
+                   
+                    int i = 0;
+
+                    // Add the sheet name to the string array.
+                    foreach (DataRow row in dtTables.Rows)
+                    {
+                        excelSheets[i] = row["TABLE_NAME"].ToString();
+                        i++;
+                    }
+                    DataSet ds = new DataSet();
+                    foreach (string sheet in excelSheets)
+                    {
+                        OleDbCommand cmd = new OleDbCommand();
+                        cmd.Connection = excelConnection;
+                        cmd.CommandText = "Select * from [" + sheet + "]";
+                        DataTable dtItems = new DataTable();
+                        dtItems.TableName = sheet;
+                        adapter = new OleDbDataAdapter();
+                        adapter.SelectCommand = cmd;
+
+                        // adapter.FillSchema(ds
+                        adapter.Fill(dtItems);
+                        ds.Tables.Add(dtItems);
+
+
+                        DataTableReader dtr = ds.Tables[0].CreateDataReader();
+                        while (dtr.Read())
+                        {
+                            Console.WriteLine(dtr[0].ToString() + "\t" + dtr[1].ToString() + "\t" + dtr[2].ToString()+ "\t" + dtr[3].ToString());
+                        }
+                    }
+                }
+            }
+            finally
+            {
+                adapter.Dispose();
+                excelConnection.Dispose();
+            }
+    }
+    }
+                          
+            
+    class demoeg
+    {
+        public static void Main()
+    {
+        exceleg obj = new exceleg();
+        obj.connectionfn();
+        Console.Read();
+    }
+}
+}

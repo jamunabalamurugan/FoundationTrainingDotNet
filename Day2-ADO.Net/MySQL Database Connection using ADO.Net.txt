@@ -1,0 +1,56 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
+using MySql.Data;
+using MySql.Data.MySqlClient;
+namespace MySqlDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            MySqlConnection connection=null;
+            MySqlCommand cmd;
+            try
+            {
+                connection = new MySqlConnection();
+                connection.ConnectionString = "Server=localhost;Database=employees;Uid=root";
+                cmd = new MySqlCommand("select * from employee",connection);
+                connection.Open();
+                List<Employee> elist = new List<Employee>(0);
+                MySqlDataReader dr = cmd.ExecuteReader();
+                while (dr.Read() == true)
+                {
+                    Console.WriteLine(dr[0] + "  " + dr[1]);
+                    Employee e = new Employee((int)dr[0], (string)dr[1]);
+                    elist.Add(e);
+                }
+                connection.Close();
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataSet ds = new DataSet();
+                connection.Open();
+                da.Fill(ds);
+                connection.Close();
+                foreach(DataRow row in ds.Tables[0].AsEnumerable())
+                {
+                    Console.WriteLine(row[0] + "  " + row[1]);
+                }
+         
+
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+            }
+            finally
+            {
+                connection.Close();
+            }
+            Console.ReadLine();
+        }
+    }
+}
