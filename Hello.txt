@@ -4,3 +4,8 @@ Git Commands that you need to know
 A command line interface
 GitHubAccount
 A text editor
+New command Git init 
+git --version
+git init
+git remote add origin https://github.com/jamunabalamurugan/FoundationTrainingDotNet.git
+git pull origin master
