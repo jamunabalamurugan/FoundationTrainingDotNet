@@ -4,3 +4,6 @@ Git Commands that you need to know
 A command line interface
 GitHubAccount
 A text editor
+git init 
+git add .
+git commit "changes"
